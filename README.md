@@ -1,2 +1,2 @@
 # predict-hotel-cancellations-
-predict hotel cancellations 
+sentiment analysis
